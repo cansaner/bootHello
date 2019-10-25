@@ -1,2 +1,2 @@
-# Spring Boot Hello from Staxter
+# Spring Boot Hello from cansaner
 Spring Boot service for saying Hello!
